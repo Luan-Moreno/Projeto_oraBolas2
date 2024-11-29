@@ -1,5 +1,4 @@
 # Projeto Ora Bolas 2
-[|||||||-] 95% do projeto
 ### Tecnologias Usadas: Python, Tkinter, Pygame e Matplotlib
 
 > Previsão de Entrega Final: 17/11/2022
